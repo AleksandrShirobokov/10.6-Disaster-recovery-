@@ -1,1 +1,2 @@
-# 10.6-Disaster-recovery-
+# 10.6 «Disaster recovery»
+# Александр Широбоков
